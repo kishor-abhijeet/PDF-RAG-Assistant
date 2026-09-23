@@ -1,5 +1,6 @@
 screenshot of page: 
-![Uploading Screenshot 2026-09-23 000705.png…]()
+<img width="1917" height="1198" alt="Screenshot 2026-09-23 000705" src="https://github.com/user-attachments/assets/5b0a2acd-d753-45fb-9f43-475ac1f71530" />
+
 
 # RAG Project
 
