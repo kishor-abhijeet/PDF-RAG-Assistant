@@ -1,3 +1,6 @@
+screenshot of page: 
+![Uploading Screenshot 2026-09-23 000705.png…]()
+
 # RAG Project
 
 This project is a Retrieval-Augmented Generation (RAG) application built with Python, LangChain, ChromaDB, Google Gemini, and Groq. It allows users to upload PDF documents, split them into chunks, generate embeddings, store them in a vector database, and ask natural-language questions about the document content.
