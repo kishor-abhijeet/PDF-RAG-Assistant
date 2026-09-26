@@ -138,6 +138,4 @@ This starts an interactive terminal session where you can ask questions against 
 - Add authentication and user management
 - Add Dockerization for easier deployment
 
-## License
 
-This project currently does not include a custom license file. Please check with the repository owner before reusing or distributing it commercially.
